@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ComplexNumberApp">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dist/ComplexNumberApp.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
