@@ -8,11 +8,14 @@
 - có thể tính toán được một chuỗi phép tính số phức 
 - lưu kết quả phép tính
 - hỗ trợ tính toán trong một số bài toán và ứng dụng vật lý
-- trỏ chuột zenitsu
+- con trỏ chuột zenitsu anime
 # Thiếu xót 
 - tính toán trong vật lý mới chỉ hỗ trợ nhập góc deg, chưa hỗ trợ rad,...
+- phải làm tròn số thập phân nếu không tràn màn hình :(
 - quên r
 # fact
+- chán đề tài quản lý nên làm đề tài này
+- Hoàng Dũng ăn hại
 - còn mấy ngày cuối trước lúc bảo vệ mới code logic mvc 
 - trước lúc thông đồ án 5p, còn 2 nút căn bậc 2 và trị đối chưa làm xong, nhanh trí xóa luôn 2 nút
 - chưa làm document hẳn hoi
