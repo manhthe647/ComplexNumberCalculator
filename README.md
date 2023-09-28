@@ -1,7 +1,6 @@
-# sophucjavaoop
-Đồ án hướng đối tượng năm 2 
-# project_name: máy tính số phức và ứng dụng 
-# author: 
+# Số phức và ứng dụng số phức
+Đồ án hướng đối tượng kì 2 năm 2 
+# thợ code: 
  - Trần Mạnh Thế
 -  Hoàng Dũng 
 # Tính năng:
