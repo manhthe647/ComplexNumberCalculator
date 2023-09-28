@@ -10,8 +10,7 @@
 - hỗ trợ tính toán trong một số bài toán và ứng dụng vật lý
 - trỏ chuột zenitsu
 # Thiếu xót 
-- chức năng nâng cao cho phần tính toán trong vật lý
-  mới chỉ hỗ trợ nhập góc deg, chưa hỗ trợ rad,...
+- tính toán trong vật lý mới chỉ hỗ trợ nhập góc deg, chưa hỗ trợ rad,...
 - quên r
 # fact
 - còn mấy ngày cuối trước lúc bảo vệ mới code logic mvc 
