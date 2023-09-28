@@ -5,7 +5,7 @@
 -  Hoàng Dũng 
 # Tính năng:
 - giao diện dễ sử dụng
-- có thể tính toán được một chuỗi phép tính số phức 
+- có thể tính toán được một chuỗi phép tính số phức kết hợp
 - lưu kết quả phép tính
 - hỗ trợ tính toán trong một số bài toán và ứng dụng vật lý
 - con trỏ chuột zenitsu anime
