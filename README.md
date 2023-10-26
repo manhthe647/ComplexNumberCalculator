@@ -1,6 +1,6 @@
 # Số phức và ứng dụng số phức
 Đồ án hướng đối tượng kì 2 năm 2 
-# JavaSwing
+# JavaSwing MVC
 # thợ code: 
  - Trần Mạnh Thế
 -  Hoàng Dũng 
