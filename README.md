@@ -15,10 +15,10 @@
 - phải làm tròn số thập phân nếu không tràn màn hình :(
 - quên r
 # fact
-- chán đề tài quản lý nên làm đề tài này
+
 - Hoàng Dũng ăn hại
 - còn mấy ngày cuối trước lúc bảo vệ mới code logic mvc 
 - trước lúc thông đồ án 5p, còn 2 nút căn bậc 2 và trị đối chưa làm xong, nhanh trí xóa luôn 2 nút
-- chưa làm document hẳn hoi
+
 # 29/9/2023 2:15 AM
   
