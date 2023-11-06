@@ -1,9 +1,8 @@
 # Số phức và ứng dụng số phức
+## Công nghệ sử dụng: Java Swing
 Đồ án hướng đối tượng kì 2 năm 2 
-# JavaSwing MVC
 # thợ code: 
  - Trần Mạnh Thế
--  Hoàng Dũng 
 # Tính năng:
 - giao diện dễ sử dụng
 - có thể tính toán được một chuỗi phép tính số phức kết hợp
@@ -12,13 +11,6 @@
 - con trỏ chuột zenitsu anime
 # Thiếu xót 
 - tính toán trong vật lý mới chỉ hỗ trợ nhập góc deg, chưa hỗ trợ rad,...
-- phải làm tròn số thập phân nếu không tràn màn hình :(
-- quên r
-# fact
-
-- Hoàng Dũng ăn hại
-- còn mấy ngày cuối trước lúc bảo vệ mới code logic mvc 
-- trước lúc thông đồ án 5p, còn 2 nút căn bậc 2 và trị đối chưa làm xong, nhanh trí xóa luôn 2 nút
-
+- tính toán kết quả cho phần vật lý chỉ mang tính chất tương đối
 # 29/9/2023 2:15 AM
   
