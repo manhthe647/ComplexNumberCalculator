@@ -10,7 +10,6 @@
 - hỗ trợ tính toán trong một số bài toán và ứng dụng vật lý
 - con trỏ chuột zenitsu anime
 # Thiếu xót 
-- tính toán trong vật lý mới chỉ hỗ trợ nhập góc deg, chưa hỗ trợ rad,...
-- tính toán kết quả cho phần vật lý chỉ mang tính chất tương đối
+- tính toán trong vật lý chưa hỗ trợ nhập góc rad
 # 29/9/2023 2:15 AM
   
