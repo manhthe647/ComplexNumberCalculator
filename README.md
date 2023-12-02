@@ -1,6 +1,6 @@
 # Số phức và ứng dụng số phức
 ## Công nghệ sử dụng: Java Swing
-Đồ án hướng đối tượng kì 2 năm 2 
+Đồ án hướng đối tượng kì 2 năm 2 (2022)
 # thợ code: 
  - Trần Mạnh Thế
 # Tính năng:
