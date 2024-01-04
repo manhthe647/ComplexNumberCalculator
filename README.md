@@ -11,5 +11,9 @@
 - hỗ trợ tính toán cho một số dạng bài toán và ứng dụng vật lý
 # Thiếu xót 
 - tính toán trong vật lý chưa hỗ trợ nhập góc rad
-# 29/9/2023 2:15 AM
+
+# 29/9/2023 2:15 AM 
+tải code lên
+# 05/01/2024 2:31 AM 
+code kiểu j nhìn đần quá :(
   
