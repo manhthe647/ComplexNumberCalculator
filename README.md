@@ -11,5 +11,7 @@
 - hỗ trợ tính toán cho một số dạng bài toán và ứng dụng vật lý
 # Thiếu xót 
 - tính toán trong vật lý chưa hỗ trợ nhập góc rad
+# Comment
+- code lỏ
 
   
